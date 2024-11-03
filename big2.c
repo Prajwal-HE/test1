@@ -9,11 +9,11 @@ biggest2()
     
     if (num1 > num2)
     { 
-    printf("%d is greater no.", num1);
+	    printf("%d is greater number", num1);
     }
     else
     {
-	    printf("%d is greater", num2);
+	    printf("%d is greater number", num2);
     }
   // return 0;
  }
