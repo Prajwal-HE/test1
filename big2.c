@@ -9,7 +9,7 @@ biggest2()
     
     if (num1 > num2)
     { 
-    printf("%d is greater", num1);
+    printf("%d is greater no.", num1);
     }
     else
     {
